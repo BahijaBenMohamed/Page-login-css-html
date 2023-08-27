@@ -1,0 +1,38 @@
+
+fieldset{
+    background: #7BC6CC;  /* fallback for old browsers */
+    height: 50%;
+    width: 35%;
+    margin-left: 350px;
+    }
+img{
+        height: 100%;
+        width:50%;
+        
+    }
+    h1 { color: "red" ; }
+button{
+    height: 50%;
+    width: 20%;
+    margin-left: 200px;
+    }
+legend{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+    text-shadow:10px 10px 10px rgb(87, 39, 55);
+    color: #17010f;}
+
+.data{
+    color: #17010f;
+    text-shadow: 10px 10px 10px rgb(84, 48, 60);
+    font-size: larger;
+    font-weight: bolder;}
+
+.dev{
+    color: #17073e;
+    text-shadow: 6px 6px 6px rgb(110, 89, 146);
+    font-size: large;
+    font-weight: bold;}
+
+
